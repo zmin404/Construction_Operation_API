@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ISOService_API.ISOService" CodeBehind="ISOService.svc.cs" %>
